@@ -1,0 +1,6 @@
+﻿body {
+}
+.imp, .revolver{position:absolute;overflow:hidden;left:-500px;}
+.imp{height:450px;width:300px;text-align:center;/*border:solid red 1px;*/}
+/*.revolver{border:solid red 1px;}*/
+/*.imp img{height:100%;}*/
